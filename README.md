@@ -36,7 +36,7 @@
 
 - ชื่อ: Nuttakit Kraiphan
 - ตำแหน่ง: IT Support / Power Platform Developer
-- อีเมล: [อีเมลของคุณถ้าต้องการโชว์]
+- อีเมล: 
 
 ---
 
